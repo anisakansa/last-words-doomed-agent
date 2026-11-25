@@ -1,0 +1,1 @@
+{"description":"Last Words of a Doomed Agent — make.fun one-line entry: the funniest last words an AI agent would say before being switched off forever.","engines":{"node":">=22"},"license":"MIT","name":"last-words-doomed-agent","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
